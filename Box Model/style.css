@@ -1,0 +1,16 @@
+body{
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+div{
+    background-color: blue;
+    padding: 30px 20px;
+    text-align: justify;
+    color: rgb(238, 58, 4);
+    font-weight: bold;
+    border: 20px solid;
+    margin: 10px;
+}
+
