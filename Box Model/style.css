@@ -25,3 +25,32 @@
     font-weight: bold;
     background-color: green;
 }
+
+
+button{
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", "sans-serif";
+}
+
+.botao{
+    background-color: black;
+    color: white;
+}
+
+.botao-branco{
+    background-color: yellow;
+    color: #000;
+}
+
+
+.one{
+    width: 250px;
+    background-color: tomato;
+    border: 1px solid blue;
+}
+
+.two{
+    background-color: cadetblue;
+    
+}
+
