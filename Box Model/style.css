@@ -1,16 +1,27 @@
-body{
-    padding: 0;
-    border: 0;
-    margin: 0;
+
+
+.impar{
+    background-color: rgba(165, 42, 42, 0.651);
+    font-size: 16px; 
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
-div {
-    border: 1px solid black;
+#ex2{
+    color: blue;
+    font-size: 36px;
 }
 
-div div {
-    border: 1px solid black;
-    padding: 10px 20px;
-    margin: 25px 50px;
-    background: orange;
+.impar p{
+    font-size: 24px;
+}
+
+#par{
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#ex4{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: green;
 }
