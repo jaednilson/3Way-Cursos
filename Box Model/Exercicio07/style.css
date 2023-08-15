@@ -14,24 +14,24 @@ body {
     margin: 16px auto;
     border: 10px solid #fff;
 }
+
 .title {
     background: #e3f4ff;
-    padding: 9px;
+    font-size: 16px;
+    padding: 8px;
     border: 1px solid #fff;
     border-bottom: 5px solid #fff;
 }
 
 .content {
     background: #e3f4ff;
-    padding: 9px;
-    border: 1px solid #fff;
+    padding: 16px 8px ;
     border-top: 5px solid #fff;
     border-bottom: 5px solid #fff;
 }
 .button-container {
     background: #e3f4ff;
-    padding: 9px;
-    border: 1px solid #fff;
+    padding: 8px;
     border-top: 5px solid #fff;
     border-bottom: 5px solid #fff;
     text-align: center;
