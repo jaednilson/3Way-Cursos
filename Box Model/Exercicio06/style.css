@@ -1,0 +1,18 @@
+.exercicio2{
+    margin: 10px 0 0 0;
+}
+
+.one{
+    width: 250px;
+    background: pink;
+    border: 3px solid blue;
+    padding: 15px 0 15px 10px;
+}
+
+.two{
+    width: 250px;
+    background: lightblue;
+    border: 3px solid purple;
+    margin: 10px 0 0 100px;
+    
+}

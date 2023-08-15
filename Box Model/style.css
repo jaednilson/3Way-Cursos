@@ -1,72 +1,18 @@
 body {
     max-width: 600px;
     margin: 0 auto;
-    }
-
-.impar{
-    background-color: rgba(165, 42, 42, 0.651);
-    font-size: 16px; 
-    font-family: "Verdana", "DejaVu Sans", sans-serif;
-}
-
-#ex2{
-    color: blue;
-    font-size: 36px;
-}
-
-.impar p{
-    font-size: 24px;
-}
-
-#par{
-    font-size: 36px;
-    font-weight: bold;
-}
-
-#ex4{
-    font-size: 24px;
-    font-weight: bold;
-    background-color: green;
-}
-
-
-button{
-    font-size: 28px;
-    font-family: "Helvetica", "Times New Roman", "sans-serif";
-}
-
-.botao{
-    background-color: black;
-    color: white;
-}
-
-.botao-branco{
-    background-color: yellow;
-    color: #000;
 }
 
 
 
 
 
-.exercicio2{
-    margin: 10px 0 0 0;
-}
 
-.one{
-    width: 250px;
-    background: pink;
-    border: 3px solid blue;
-    padding: 15px 0 15px 10px;
-}
 
-.two{
-    width: 250px;
-    background: lightblue;
-    border: 3px solid purple;
-    margin: 10px 0 0 100px;
-    
-}
+
+
+
+
 
 
 
