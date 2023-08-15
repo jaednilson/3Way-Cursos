@@ -55,11 +55,41 @@ button{
 
 .one{
     width: 250px;
-    background-color: tomato;
-    border: 1px solid blue;
+    background: pink;
+    border: 3px solid blue;
+    padding: 15px 0 15px 10px;
 }
 
 .two{
-    background-color: cadetblue;
+    width: 250px;
+    background: lightblue;
+    border: 3px solid purple;
+    margin: 10px 0 0 100px;
     
+}
+
+
+
+.card {
+    width: 400px;
+    background: #fff;
+    margin: 16px auto;
+}
+.title {
+    background: #e3f4ff;
+}
+.content {
+    background: #e3f4ff;
+}
+
+.card {
+    width: 400px;
+    background: #fff;
+    margin: 16px auto;
+}
+.title {
+    background: #e3f4ff;
+}
+.content {
+    background: #e3f4ff;
 }
