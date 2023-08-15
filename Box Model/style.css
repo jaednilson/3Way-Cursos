@@ -1,4 +1,7 @@
-
+body {
+    max-width: 600px;
+    margin: 0 auto;
+    }
 
 .impar{
     background-color: rgba(165, 42, 42, 0.651);
@@ -43,6 +46,13 @@ button{
 }
 
 
+
+
+
+.exercicio2{
+    margin: 10px 0 0 0;
+}
+
 .one{
     width: 250px;
     background-color: tomato;
@@ -53,4 +63,3 @@ button{
     background-color: cadetblue;
     
 }
-
