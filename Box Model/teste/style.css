@@ -1,0 +1,15 @@
+div{
+    background-color: aqua;
+    position: relative;
+    width: 250px;
+    height: 250px;
+}
+    
+
+p{
+    left: 50%;
+    position: absolute;
+    transform: translateX(-50%);
+    transform: translateX(50%);
+    background-color: yellow;
+}
