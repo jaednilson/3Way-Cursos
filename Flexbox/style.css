@@ -1,0 +1,19 @@
+
+.container {
+    display: flex;
+}
+
+.container div {
+    background-color: #f1a99d;
+    border: 1px solid brown;
+    height: 50px;
+    width: 100%;
+}
+
+.two{
+    display: flex;
+}
+
+.two div{
+    background-color: chartreuse;
+}
