@@ -1,19 +1,21 @@
-
-.container {
+.exercio-1{
     display: flex;
-}
-
-.container div {
-    background-color: #f1a99d;
-    border: 1px solid brown;
-    height: 50px;
+    flex-direction: column;
     width: 100%;
-}
-
-.two{
+    height: 500px;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0099ffa9;
+    border: 10px solid #355cdd;
+
 }
 
-.two div{
-    background-color: chartreuse;
+.exercio-1 div {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(255, 86, 56, 0.753);
+    border: 10px solid #ff0000;
+    display: flex;
+    justify-content: center;
 }
